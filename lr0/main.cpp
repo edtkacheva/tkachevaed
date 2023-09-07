@@ -5,6 +5,6 @@ int main() {
 	cout << "Hello world \n";
 	int x;
 	cin >> x;
-	cout << 1 / x;
+	cout << 10 / x;
 	return 0;
 }
