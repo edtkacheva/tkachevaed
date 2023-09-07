@@ -3,9 +3,9 @@ using namespace std;
 
 int main() {
 	cout << "Hello world \n";
-	int x;
-	cout << "Please enter a number \n";
-	cin >> x;
-	cout << 10 / x;
+	string symbol;
+	cout << "Enter any symbol \n";
+	cin >> symbol;
+	cout << symbol;
 	return 0;
 }
