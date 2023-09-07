@@ -1,6 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-	std::cout << "Hello world";
+	cout << "Hello world \n";
+	int x;
+	cin >> x;
+	cout << 1 / x;
 	return 0;
 }
